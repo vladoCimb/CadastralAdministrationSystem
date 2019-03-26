@@ -1,0 +1,2 @@
+GUI.JTabbedPaneWithCloseIcons
+GUI.CloseTabIcon
